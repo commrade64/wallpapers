@@ -1,2 +1,4 @@
-# wallpapers
-a collection of nice wallpapers i found in the wild
+# Credits
+
+[RavioliMavioli](https://www.raviolimavioli.com/):
+void-chan.png
